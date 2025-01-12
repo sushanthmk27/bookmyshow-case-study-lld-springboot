@@ -15,7 +15,7 @@ public class Location {
 
     private String stateName;
 
-    List<Theater> theateres;
+    private List<Theater> theateres;
 
 
 }
